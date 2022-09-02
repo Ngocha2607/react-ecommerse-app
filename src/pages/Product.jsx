@@ -13,18 +13,23 @@ const Product = () => {
       <Announcement />
       <Wrapper>
         <ImgContainer>
-          <Image src="https://i.ibb.co/S6qMxwr/jean.jpg" />
+          <Image src="https://images.footballfanatics.com/manchester-united/manchester-united-home-shirt-2022-23-with-ronaldo-7-printing_ss4_p-13322480+u-17to258yn7p4d2wl322l+v-0251332823184dcc95ba552ac6cb1b77.jpg?_hv=2&w=900" />
         </ImgContainer>
         <InfoContainer>
-          <Title>Denim Jumpsuit</Title>
+          <Title>
+            Manchester United Home Shirt 2022-23 with Ronaldo 7 printing
+          </Title>
           <Desc>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-            venenatis, dolor in finibus malesuada, lectus ipsum porta nunc, at
-            iaculis arcu nisi sed mauris. Nulla fermentum vestibulum ex, eget
-            tristique tortor pretium ut. Curabitur elit justo, consequat id
-            condimentum ac, volutpat ornare.
+            Turned up or pressed down, the humble polo collar has played a
+            starring role in many of Manchester United's biggest moments. Making
+            a comeback on this adidas football jersey, it joins a shield-style
+            badge and engineered pinstripe graphic to produce an eye-catching
+            look. Moisture-absorbing AEROREADY and mesh panels make it a
+            comfortable choice for passionate supporters. Made with 100%
+            recycled materials, this product represents just one of our
+            solutions to help end plastic waste.
           </Desc>
-          <Price>$ 20</Price>
+          <Price>$ 113</Price>
           <FilterContainer>
             <Filter>
               <FilterTitle>Color</FilterTitle>

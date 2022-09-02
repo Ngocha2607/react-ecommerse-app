@@ -6,23 +6,23 @@ import { mobile } from "../responsive";
 const sliderItems = [
   {
     id: 1,
-    img: "https://i.ibb.co/XsdmR2c/1.png",
+    img: "https://images.footballfanatics.com/manchester-united/manchester-united-home-authentic-shirt-2022-23_ss4_p-13307701+u-skyjtpdsdifd85q7gn1a+v-5c38b7aedcfe43e79ad60b12d4e2e980.jpg?_hv=2&w=340",
     title: "SUMMER SALE",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    desc: "MANCHESTER UNITED HOME AUTHENTIC SHIRT 2022-23",
     bg: "f5fafd",
   },
   {
     id: 2,
-    img: "https://i.ibb.co/DG69bQ4/2.png",
+    img: "https://images.footballfanatics.com/manchester-united/manchester-united-home-authentic-shirt-2022-23-long-sleeve_ss4_p-13307711+u-z22kpo0jlrh04gbtxkfk+v-f1509a38db6444159e911ea136630a69.jpg?_hv=2&w=340",
     title: "AUTUMN COLLECTION",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    desc: "MANCHESTER UNITED HOME AUTHENTIC SHIRT 2022-23 LONG SLEEVE",
     bg: "fcf1ed",
   },
   {
     id: 3,
-    img: "https://i.ibb.co/cXFnLLV/3.png",
-    title: "LOUNGEWEAR LOVE",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    img: "https://images.footballfanatics.com/manchester-united/manchester-united-home-authentic-shirt-2022-23-with-casemiro-18-printing_ss4_p-13359596+u-tz4vhdj39d6zc46ujnk4+v-5aefc94a110948fca06eecfdd68e1591.jpg?_hv=2&w=340",
+    title: "NEW COLLECTION",
+    desc: "MANCHESTER UNITED HOME AUTHENTIC SHIRT 2022-23 WITH CASEMERO 18 PRINTING",
     bg: "fbf0f4",
   },
 ];

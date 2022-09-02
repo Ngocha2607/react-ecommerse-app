@@ -24,43 +24,17 @@ const Cart = () => {
           <Info>
             <Product>
               <ProductDetail>
-                <Image src="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1614188818-TD1MTHU_SHOE_ANGLE_GLOBAL_MENS_TREE_DASHERS_THUNDER_b01b1013-cd8d-48e7-bed9-52db26515dc4.png?crop=1xw:1.00xh;center,top&resize=480%3A%2A" />
+                <Image src="https://images.footballfanatics.com/manchester-united/manchester-united-travel-backpack-black_ss4_p-13313369+u-spe8rhrgsjwuvdids5l7+v-c5e0a3d0ae53430e909a33d69623e5bd.jpg?_hv=2&w=340" />
                 <Details>
                   <ProductName>
-                    <b>Product:</b> JESSIE THUNDER SHOES
+                    <b>Product:</b> MANCHESTER UNITED TRAVEL BACKPACK - BLACK
                   </ProductName>
                   <ProductId>
                     <b>ID:</b> 93813718293
                   </ProductId>
                   <ProductColor color="black" />
                   <ProductSize>
-                    <b>Size:</b> 37.5
-                  </ProductSize>
-                </Details>
-              </ProductDetail>
-              <PriceDetail>
-                <ProductAmountContainer>
-                  <MinusCircleOutlined />
-                  <ProductAmount>2</ProductAmount>
-                  <PlusCircleOutlined />
-                </ProductAmountContainer>
-                <ProductPrice>$ 30</ProductPrice>
-              </PriceDetail>
-            </Product>
-            <Hr />
-            <Product>
-              <ProductDetail>
-                <Image src="https://i.pinimg.com/originals/2d/af/f8/2daff8e0823e51dd752704a47d5b795c.png" />
-                <Details>
-                  <ProductName>
-                    <b>Product:</b> HAKURA T-SHIRT
-                  </ProductName>
-                  <ProductId>
-                    <b>ID:</b> 93813718293
-                  </ProductId>
-                  <ProductColor color="gray" />
-                  <ProductSize>
-                    <b>Size:</b> M
+                    <b>Size:</b> MEDIUM
                   </ProductSize>
                 </Details>
               </ProductDetail>
@@ -70,7 +44,33 @@ const Cart = () => {
                   <ProductAmount>1</ProductAmount>
                   <PlusCircleOutlined />
                 </ProductAmountContainer>
-                <ProductPrice>$ 20</ProductPrice>
+                <ProductPrice>$ 90</ProductPrice>
+              </PriceDetail>
+            </Product>
+            <Hr />
+            <Product>
+              <ProductDetail>
+                <Image src="https://images.footballfanatics.com/manchester-united/manchester-united-waterbottle-red_ss4_p-13313390+u-1de72ur0p544rq6fl7ps+v-47af62795f0e4267bf2eef6fb23dcffc.jpg?_hv=2&w=340" />
+                <Details>
+                  <ProductName>
+                    <b>Product:</b> MANCHESTER UNITED WATERBOTTLE - RED
+                  </ProductName>
+                  <ProductId>
+                    <b>ID:</b> 93813718293
+                  </ProductId>
+                  <ProductColor color="gray" />
+                  <ProductSize>
+                    <b>Size:</b> MEDIUM
+                  </ProductSize>
+                </Details>
+              </ProductDetail>
+              <PriceDetail>
+                <ProductAmountContainer>
+                  <MinusCircleOutlined />
+                  <ProductAmount>1</ProductAmount>
+                  <PlusCircleOutlined />
+                </ProductAmountContainer>
+                <ProductPrice>$ 15</ProductPrice>
               </PriceDetail>
             </Product>
           </Info>
@@ -78,7 +78,7 @@ const Cart = () => {
             <SummaryTitle>ORDER SUMMARY</SummaryTitle>
             <SummaryItem>
               <SummaryItemText>Subtotal</SummaryItemText>
-              <SummaryItemPrice>$ 80</SummaryItemPrice>
+              <SummaryItemPrice>$ 105</SummaryItemPrice>
             </SummaryItem>
             <SummaryItem>
               <SummaryItemText>Estimated Shipping</SummaryItemText>
@@ -90,7 +90,7 @@ const Cart = () => {
             </SummaryItem>
             <SummaryItem type="total">
               <SummaryItemText>Total</SummaryItemText>
-              <SummaryItemPrice>$ 80</SummaryItemPrice>
+              <SummaryItemPrice>$ 105</SummaryItemPrice>
             </SummaryItem>
             <Button>CHECKOUT NOW</Button>
           </Summary>
